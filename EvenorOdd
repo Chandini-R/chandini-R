@@ -1,0 +1,13 @@
+package week1;
+
+class Helloworld 
+{
+	public static void main(String args[]) 
+	{
+	int num=68;
+	if(num%2==0)
+		System.out.println("This given number" +num+ "is Even");
+	else
+		System.out.println("This given number" +num+ "is Odd");
+	}
+}          
